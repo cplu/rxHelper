@@ -1,5 +1,5 @@
-# rxNetwork
-helper to register android CONNECTIVITY_ACTION event with rxJava
+# rxHelper
+helper methods for rxJava on Android
 require:
   mandatory:
     rxJava
